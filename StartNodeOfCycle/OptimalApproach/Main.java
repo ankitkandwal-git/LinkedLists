@@ -1,5 +1,5 @@
 
-package LinkedLists.StartNodeOfCycle.BruteForce;
+package LinkedLists.StartNodeOfCycle.OptimalApproach;
 import java.util.Scanner;
 
 public class Main {
