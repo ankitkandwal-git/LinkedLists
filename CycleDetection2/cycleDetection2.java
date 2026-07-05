@@ -1,7 +1,6 @@
 package LinkedLists.CycleDetection2;
-import java.util*;
 
-public class cycleDeteion2{
+public class cycleDetection2{
     class ListNode {
         int val;
         ListNode next;
@@ -48,7 +47,7 @@ public class cycleDeteion2{
     }
     public static void main(String[] args) {
         // Example usage
-        cycleDeteion2 solution = new cycleDeteion2();
+        cycleDetection2 solution = new cycleDetection2();
         ListNode head = solution.new ListNode(3);
         head.next = solution.new ListNode(2);
         head.next.next = solution.new ListNode(0);
